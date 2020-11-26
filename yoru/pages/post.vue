@@ -2,7 +2,7 @@
   <v-container fluid class="pt-0">
     <v-row>
       <v-col class="pb-0" cols="1"><v-spacer></v-spacer></v-col>
-      <v-col class="pl-0 pb-0" cols="8"><h1>Details</h1></v-col>
+      <v-col class="pl-0 pb-0" cols="8"><h1>Post</h1></v-col>
     </v-row>
 
     <v-row class="mt-2">

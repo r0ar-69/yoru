@@ -11,28 +11,6 @@
       style="background-color: rgba(0,0,0,0);"
       >
       <v-row style="background-color: rgba(0,0,0,0);">
-        <v-col
-          cols="12"
-          class="pa-0"
-          style="background-color: rgba(0,0,0,0);"
-          >
-          <v-layout justify-end class="mr-6 mb-4" >
-            <v-speed-dial 
-              >
-              <template v-slot:activator>
-                <v-btn
-                  color="#3DD598"
-                  dark
-                  fab
-                  class="float"
-                  to="post"
-                >
-                  <v-icon >mdi-plus</v-icon>
-                </v-btn>
-              </template>
-            </v-speed-dial>
-          </v-layout>
-        </v-col>
         <v-col cols="12" class="py-0">
           <v-bottom-navigation background-color="#2A3C44" color="#3DD598" style="border-radius: 12px 12px 0px 0px;">
             <v-btn value="chat-list" to="history">
@@ -48,11 +26,6 @@
     </v-col>
       </v-row>
     </v-footer>
-
-
-
-
-    
   </v-app>
 </template>
 
