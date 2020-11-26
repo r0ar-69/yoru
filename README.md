@@ -1,2 +1,2 @@
 # yoru
-shirring beautiful night spot
+sharring beautiful night spot
