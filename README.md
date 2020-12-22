@@ -1,2 +1,2 @@
 # yoru
-sharring beautiful night spot
+(開発中) 夜景スポット共有アプリ
